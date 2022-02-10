@@ -4,6 +4,8 @@ React.jsda tayyorlangan starter kodni davom ettiring!
 Vazifaning ko'rinishi : [Figma URL](https://www.figma.com/file/wnSCfujqMERmNfvkEZQQKp/Untitled?node-id=0%3A1)
 API ning asosiy URLi: `http://92.63.206.40:1122/api`
 
+❗❗❗ Ishni boshlashdan oldin ushbu repozitoriyani o'zingizga fork qilib oling. 
+
 ## API manzillari
 
 1. [Log in :](#Log-in) `http://92.63.206.40:1122/api/login`
@@ -185,3 +187,8 @@ Ishga tushirish - `yarn start`
 ## ❗❗❗Sahifalarni ishlab chiqish jarayonida kamida `styled-components`, `redux`, , `axios`, `hooks` va `react-router-dom v6` foydalanish talab qilinadi!
 
 Asosiy packetlar o'rnatilgan.
+
+
+# Vazifani topshirish
+
+## Vazifani [GOOGLE FORM](https://docs.google.com/forms/d/13WgOHYSHk4W29upWRzjrLslnBumKlICNXJ5wDXFuxYA/edit?usp=sharing) ga yuklang
